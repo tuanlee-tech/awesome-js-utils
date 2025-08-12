@@ -1,0 +1,28 @@
+{
+    "name": "awesome-js-utils",
+    "version": "1.0.0",
+    "description": "A comprehensive cheatsheet of common JavaScript and TypeScript utility functions.",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "dev": "tsc --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tuanlee-tech/awesome-js-utils"
+    },
+    "keywords": [
+        "javascript",
+        "typescript",
+        "utils",
+        "helpers",
+        "cheatsheet",
+        "utility-library"
+    ],
+    "author": "YOUR_NAME",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^4.5.4"
+    }
+}
